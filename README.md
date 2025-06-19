@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Bravin Musali
-**A passionate Fullstack Developer || from Kenye**
+**A passionate Fullstack Developer || from Kenya**
 
 Email Me 👉 ✉️ **bravinmusali@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
