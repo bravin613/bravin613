@@ -74,7 +74,7 @@ I am currently enrolled in the **Power Learn Project (PLP)** - *1 Million Devs f
 
 ---
 
-### ✍️ Random Dev Quote  
+### ✍️ Dev Quote  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
@@ -86,6 +86,22 @@ I am currently enrolled in the **Power Learn Project (PLP)** - *1 Million Devs f
 
 [![](https://visitcount.itsvg.in/api?id=bravin613&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<!-- ## 📚 Certifications
+
+- 🎓 **Power Learn Project (Ongoing)**  
+  Fullstack Software Development Program – Python, Web Technologies, Soft Skills  
+  _Decentralizing AI and tech skills across Africa._
+
+- 🧠 **Meta Fullstack Developer Professional Certificate**  
+  Comprehensive program covering front-end, back-end, databases, and version control using industry best practices.  
+  _Offered by Meta via Coursera_
+
+- 🔥 **Udemy – Next.js Mastery**  
+  *Harnessing React, Advanced Routing, Seamless API Integration, and Web Optimization Strategies*  
+  _Instructor-led deep dive into building production-grade web apps with Next.js._
+
+- ✅ **Google Digital Skills for Africa**  
+  Fundamentals of Digital Marketing -->
 
 
 
